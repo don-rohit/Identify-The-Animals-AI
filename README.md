@@ -4,7 +4,7 @@ For several years, animal detection in the wildlife has been an area of great in
 
 The application of deep learning is rapidly growing in the field of computer vision and is helping in building powerful classification and identification models. We can leverage this power of deep learning to build models that can classify and differentiate between different species of animals as well.
 
-In this dataset, we provide 19,000 images of 30 different species of animals. In the next 90 days, we challenge you to build models such that given an image, the model will predict the probability of every animal class. The animal class with the highest probability will signify that the image belongs to that animal class.
+In this dataset, we provide 19,000 images of 30 different species of animals. In the next 90 days, the model will predict the probability of every animal class. The animal class with the highest probability will signify that the image belongs to that animal class.
 
 [Link of problem statement](https://www.hackerearth.com/challenges/competitive/deep-learning-beginner-challenge/)
 
